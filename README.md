@@ -9,7 +9,7 @@
 
 <br />
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=pavithrahareddy&show_icons=true&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api?username=pavithrahareddy&show_icons=true&theme=dracula">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavithrahareddy&layout=compact)](https://github.com/pavithrahareddy/github-readme-stats)
 
